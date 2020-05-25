@@ -1,0 +1,88 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #fbfbfb;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 16px;
+}
+
+#recipieimage{
+    /* visibility: hidden; */
+}
+.container-fluid{
+    padding: 10px;
+}
+
+#search-list{
+    cursor: pointer;
+}
+
+#Banner{
+    text-align: center;
+    padding: 5px;
+    color: #002140;
+}
+
+.category-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.basket{
+    display: flex;
+}
+
+
+.cuisines {
+    padding: 6px;
+    border: 1px solid black;
+}
+
+#basketBanner{
+    margin : 14px 0;
+}
+
+#basket{
+    margin: 0.5rem;
+
+}
+.btn-green{
+    background-color: #28D063;
+    border-color: #28D063;
+    border-radius: .25rem;
+    margin: 0.2rem;
+    padding: 5px;
+}
+
+#btn-rcpgen{
+    /* visibility: hidden; */
+}
+
+
+
+.anandImage{
+    display: flex;
+    /* border: 1px solid black; */
+    margin: 4px;
+}
+
+#rcpimage{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    padding-bottom: 1px;
+}
+
+#rcpdescription{
+    padding: 5px;
+    padding-bottom: 1px;
+}
+
+#servingfood{
+    display: flex;
+}
+
+.fa-arrow-right{
+    padding-left: 140px;
+}

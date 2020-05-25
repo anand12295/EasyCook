@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #fbfbfb;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 14px;
+}
+
+.anandImage{
+    display: flex;
+}
+
+.rcpdescription{
+    padding-left: 12px;
+    width: 100%;
+}
+
+.servingfood{
+    display: flex;
+    justify-content: space-between;
+}
+
